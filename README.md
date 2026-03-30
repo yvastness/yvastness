@@ -1,16 +1,72 @@
-## Hi there 👋
+![](assets/Bottom_up.svg)
 
-<!--
-**yvastness/yvastness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/YVastness/YVastness"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/YVastness/YVastness/graphs/contributors"><img src="https://img.shields.io/github/contributors/YVastness/YVastness?color=blue"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=YVastness.YVastness" alt="visitors"/>   
+</p>
 
-Here are some ideas to get you started:
+<!--   my-header-img -->
+![](./src/header_.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Yin+Haoyu;+Welcome+to+My+Profile!;Always+learning+new+things+;Github+community+member)](https://git.io/typing-svg)
+
+
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
+
+
+<!--   my-kaggle     
+### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
 -->
+
+
+<!--   my-skils -->
+
+| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-004400?style=flat&logo=joplin)&nbsp; ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp; ![Vim](https://img.shields.io/badge/-Vim-444444?style=flat&logo=Vim&logoColor=009532)&nbsp; ![Jetbrains](https://img.shields.io/badge/-Jetbrains-F02FA5?style=flat&logo=Jetbrains&logoColor=black) [![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Domain Knownledge**                           | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/yvastness?tab=repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/yvastness?tab=repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/YVastness/YVastness) ![Notion](https://img.shields.io/badge/-Notion-ffffff?style=flat&logo=notion&logoColor=262626)&nbsp; ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![Gitee](https://img.shields.io/badge/-Gitee-444444?style=flat&logo=Gitee)&nbsp;  [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) |
+| **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **AIGC** | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![Claude Code](https://img.shields.io/badge/-Claude%20Code-FAF9F5?style=flat&logo=Claude)&nbsp; ![Coze](https://img.shields.io/badge/-Coze-FFFFFF?style=flat&logo=Coze&logoColor=4E53E8)&nbsp;![OpenClaw](https://img.shields.io/badge/-OpenClaw-FF4D4D?style=flat&logo=OpenClaw)&nbsp; ![DeepSeek](https://img.shields.io/badge/-DeepSeek-5686FE?style=flat&logo=DeepSeek)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Operating System** | ![MacOS](https://img.shields.io/badge/-MacOS-444444?style=flat&logo=MacOS)&nbsp; ![Windows](https://img.shields.io/badge/-Windows-2088FF?style=flat&logo=Windows)&nbsp; ![Linux](https://img.shields.io/badge/-Linux-444444?style=flat&logo=Linux)&nbsp; ![OpenWrt](https://img.shields.io/badge/-OpenWrt-022742?style=flat&logo=OpenWrt)&nbsp; ![Ubuntu](https://img.shields.io/badge/-Ubuntu-444444?style=flat&logo=Ubuntu)&nbsp; ![Arch](https://img.shields.io/badge/-Arch-444444?style=flat&logo=archlinux)&nbsp; |
+
+
+
+
+
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YVastness/wechat-weather&type=Date)](https://star-history.com/#YVastness/wechat-weather&Date)
+
+
+
+### Profile Views
+counting of visitors to this page in this section started from March 7, 2026
+
+![](https://count.getloli.com/get/@YVastness.github.readme)
+</br>
+
+[MIT](LICENSE)
+
+
+</p>
+
+---
+  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
+---
+
+
+
+![](assets/Bottom_down.svg)
